@@ -1,0 +1,330 @@
+UNIT 31 現在形
+1. I'm very happy.
+2. You are a good student.
+3. He is in Tokyo now.
+4. I play the piano every day.
+5. Your jacket looks nice.
+6. Asuka studies Math so hard.
+7. Lora has two sisters.
+8. I often ask my boss questions.
+9. People call him JT.
+
+UNIT 32 未来形
+1. Lisa will be twenty next year.
+2. It will be cloudy tomorrow.
+3. I will do my best.
+4. I will call you tonight.
+5. I will buy you a ring.
+6. I will help you with your homework.
+7. They are going to get married.
+8. He is going to visit Hawaii next month.
+9. I'm going to become an engineer.
+
+UNIT 33 過去形
+1. I was busy last week.
+2. You were so lucky.
+3. The weather was so nice yesterday.
+4. We played golf last Sunday.
+5. I really liked van Gogh's paintings.
+6. School started two weeks ago.
+7. She gave me a lot of information.
+8. They built a house last year.
+9. He told me about the accident.
+
+UNIT 34 進行形
+1. I'm watching TV now.
+2. We are waiting for James.
+3. Kaori is cooking dinner in the kitchen.
+4. The children are sitting on the sofa.
+5. She is leaving Japan tomorrow.
+6. I was taking a shower then.
+7. We were eating lunch at the restaurant.
+8. He was lying down on the bed.
+9. The students were singing Christmas carols.
+
+UNIT 35 現在完了形
+1. I have already finished reading that book.
+2. My father has just come home.
+3. Frank has gone to New York.
+4. I have been to Hawaii twice.
+5. I have met him before.
+6. I have been in Tokyo for five years.
+7. I have known Debby for a long time.
+8. I have been working for this company for three years.
+9. It has been raining since yesterday.
+
+UNIT 36 否定文
+1. I'm not so hungry.
+2. Bob is not good at sports.
+3. I don't work on Saturdays or Sundays.
+4. She doesn't like vegetables very much.
+5. I'm sorry. I wasn't listening.
+6. I didn't eat breakfast this morning.
+7. I won't tell anybody about it.
+8. I haven't seen him for years.
+9. I have never been to New York.
+
+UNIT 37 一般疑問文
+1. Are you an international student?
+2. Is she still working in her office?
+3. Do you have a credit card?
+4. Does he live in this area?
+5. Were you late for work?
+6. Was he in his room?
+7. Did you sleep well last night?
+8. Will she be back soon?
+9. Have you ever been to Europe?
+
+UNIT 38 疑問詞1 what_which
+1. What are you doing?
+2. What can I do for you?
+3. What's the matter?
+4. What kind of music do you like?
+5. What language do they speak in the Philippines?
+6. Which is your mug?
+7. Which do you like better, Summer or Winter?
+8. Which bus goes to Ginza?
+9. Which soccer team do you like the best?
+
+UNIT 39 疑問詞2 who_whose
+1. Who is he? He is a friend of mine.
+2. Who are they? They are my coworkers.
+3. Who is it? It's me, Brian.
+4. Who's calling, please? This is Ann speaking.
+5. Who won the championship?
+6. Whose computer is this? Oh, it's mine.
+7. Whose car is that? It's my father's.
+8. Whose is this coat? It's probably Yoko's.
+9. Whose are these books? They are ours.
+
+UNIT 40 疑問詞3 when_where
+1. When is your birthday? It's April 21.
+2. When does the summer vacation start?
+3. When do you usually exercise?
+4. When did you finish your work?
+5. When is he going to visit Seattle?
+6. Excuse me. Where is the restroom?
+7. Where do you want to go?
+8. Where are you going to meet him?
+9. Where did you have dinner?
+
+UNIT 41 疑問詞4 why
+1. Why is he angry?
+2. Why are they so expensive?
+3. Why was she quiet?
+4. Why do you think so?
+5. Why does she like antiques?
+6. Why do you study English? To get a good job.
+7. Why are you going to the airport? To meet my husband.
+8. Why were you late? Because I missed the train.
+9. Why didn't she come to the party? Because she was sick.
+
+UNIT 42 疑問詞5 how
+1. How is the weather in Osaka? It's sunny.
+2. How was your flight to Japan? It was great.
+3. How do you go to work? By train.
+4. How did you like the food? I liked it very much.
+5. How much is it? It's 25 dollars.
+6. How old is your son? He is nine years old.
+7. How many CDs do you have? About two hundred.
+8. How often do you go to the movies? Once a month.
+9. How long have you been working here? For seven years.
+
+UNIT 43 付加疑問文
+1. You are from America, aren't you?
+2. This is your umbrella, isn't it?
+3. You speak Japanese, don't you?
+4. Ms. Fukuda works for a bank, doesn't she?
+5. George came here yesterday, didn't he?
+6. You have been to Canada, haven't you?
+7. He is not home, is he?
+8. You don't like vegetables, do you?
+9. Let's take a walk, shall we?
+
+UNIT 44 命令文
+1. Have a seat.
+2. Take my word for it.
+3. Please speak more slowly.
+4. Please come with me.
+5. Don't drink too much.
+6. Be nice to everybody.
+7. Please be quiet in the museum.
+8. Don't be angry about such a small thing.
+9. Please don't use your cell phone on the train.
+
+UNIT 45 助動詞
+1. Junko can speak English and Spanish.
+2. Can you play the guitar? Yes, I can./No, I can't.
+3. You may leave now.
+4. You may be right.
+5. You must[have to] do it right now.
+6. You must be tired.
+7. You must not go in there.
+8. You don't have to come with me.
+9. You should check the plane schedule.
+
+UNIT 46 受動態
+1. French is visited by many artists.
+2. That book was written by her.
+3. All the work was done by Mr. Kosaka.
+4. This system was introduced by a Japanese company.
+5. Linda's dog is called Kupipi.
+6. A lot of stars can be seen from here.
+7. The package will be sent tomorrow.
+8. The food is being cooked right now.
+9. The computer has just been repaired.
+
+UNIT 47 there is 構文
+1. There is a newspaper on the table.
+2. There is a guard at the gate.
+3. There are many hot springs in Japan.
+4. Is there a post office around here?
+5. Are there any eggs in the refrigerator?
+6. There was a big sofa in his room.
+7. There were many people in the stadium.
+8. There used to be a huge cherry tree there.
+9. There is no much time left.
+
+UNIT 48 to不定詞① 名詞的用法
+1. To play the violin is difficult.
+2. To study English is very important.
+3. To exercise every day is good for your health.
+4. His job is to sell imported cars.
+5. My hobby is to play soccer.
+6. I want to talk to him again.
+7. Donna suddenly began to cry.
+8. I try to save money.
+9. We decided to go there by taxi.
+
+UNIT 49 to不定詞② 形容詞的用法
+1. I have a lot of things to do today. 
+2. I'd like something to drink.
+3. Do you have anything to read?
+4. I don't have anything to say.
+5. There are many places to see in Okinawa.
+6. We are looking for someone to help us.
+7. I have an important phone call to make.
+8. He doesn't have any friends to talk with.
+9. She has little children to take care of.
+
+UNIT 50 to不定詞③ 副詞的用法
+1. I went to the supermarket to buy some groceries.
+2. We ran to catch the express train.
+3. I'll go to the coffee shop to meet my friends.
+4. He went to college to study Business.
+5. She studied hard to get good grades.
+6. I bought some milk and eggs to make pancakes.
+7. I'm going to meet her to ask for some advice.
+8. Jim stopped to make a phone call.
+9. I jog every day to stay healthy.
+
+UNIT 51 itの特別用法
+1. It is hot today.
+2. It is raining very hard.
+3. It is so dark in this room.
+4. What time is it now? It's 5:30.
+5. What day is it today? It's Tuesday.
+6. It takes about ten minutes to get there.
+7. It cost me a lot of money to travel in America.
+8. It is interesting to visit foreign countries.
+9. It is difficult for me to do this work.
+
+UNIT 52 動名詞
+1. Speaking English is not so easy.
+2. Drinving along the coast is a lot of fun.
+3. My hobby is listening to classical music.
+4. I like taking a walk early in the morning.
+5. Will you please stop talking?
+6. We enjoyed playing tennis last Sunday.
+7. Have you finished eating lunch yet?
+8. Would you mind opening the door for me?
+9. Don't be afraid of making mistakes.
+
+UNIT 53 現在分詞・過去分詞
+1. Don't wake that sleeping baby.
+2. My daughter is afraid of barking dogs.
+3. The woman sitting on the bench is my mother.
+4. Do you know the boy standing by the door?
+5. I bought a used car last month.
+6. Don't step on that broken glass.
+7. He has a watch made in Switzerland.
+8. What is the language spoken in India?
+9. Please keep your fingers crossed.
+
+UNIT 54 使役動詞
+1. Our boss made us work till late at night.
+2. The smell makes me feel sick.
+3. My father let me drive his car.
+4. Please let me know if you need any help.
+5. I had my sister do the dishes.
+6. I have a mechanic look at my car.
+7. She had her blood checked.
+8. I'll get my hair cut tomorrow.
+9. Can I get this printer fixed by next week?
+
+
+UNIT 55 知覚動詞
+1. I saw her walk across the street.
+2. I have never heard John sing a song.
+3. We want to watch you dance on the stage.
+4. I was looking at the birds flying in the sky.
+5. I saw children playing in the park.
+6. I felt something moving on my arm.
+7. I heard my name called.
+8. I have never seen him scolded.
+9. We saw a man caught by the police.
+
+UNIT 56 比較級
+1. Today is warmer than yesterday.
+2. David looks younger than you.
+3. Your room is bigger than hers.
+4. These flowers are prettier than those.
+5. Taeko studies harder than I.
+6. You know much better than I do.
+7. Your dictionary is more useful than mine.
+8. That movie was more interesting than this one.
+9. Math is more difficult than any other subject.
+
+UNIT 57 最上級・同等比較
+1. Mt. Fuji is the highest mountain in Japan.
+2. Mr. Hirano is the busiest man in our company.
+3. I am the youngest of the three.
+4. She is the most popular singer in America.
+5. This is the most expensive camera in this shop.
+6. Tomoko runs fastest in our class.
+7. Jack is as old as you.
+8. This question is not as easy as I thought.
+9. Hisashi has twice as many books as I do.
+
+UNIT 58 仮定法
+1. If I were you, I would go to see a dentist.
+2. If we had a lot of money, we would buy a house.
+3. I would appreciate it if you could.
+4. I wish I had a brother.
+5. I wish I could play the piano.
+6. If I had known Jenny's phone number, I would have called her.
+7. If it weren't for my family, I couldn't go on.
+8. If it hadn't been for your help, we couldn't have succeeded.
+9. If you were to go abroad, you would experience so many things.
+
+UNIT 59 関係代名詞
+1. I have a friend who[that] lives in Chicago.
+2. The company is looking for a person who[that] can speak English.
+3. I know a man whose son is a famous pianist.
+4. That is the woman (that) I saw at the party.
+5. The plane which[that] has just arrived came from London.
+6. Fukuoka is the city (which/that) she visited twenty years ago. 
+7. This is the flower (which/that) Masumi likes.
+8. Let me see what you have in your hand.
+9. I understand what you are saying.
+
+UNIT 60 関係副詞
+1. This is the room where I study.
+2. This is the street where the accident happened.
+3. Let's go to a place where we can see a nice view.
+4. Fukuoka is the city where she was born twenty years ago.
+5. That is the coffee shop where I met James for the first time.
+6. Sunday is the day when they go to church.
+7. Summer is the season when we can enjoy festivals.
+8. April is the month when the new school year starts in Japan.
+9. The year when the Olympic Games were held in Tokyo was 1964.

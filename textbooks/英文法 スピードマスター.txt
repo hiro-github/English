@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 新TOEIC TEST 英文法 スピードマスター
+
+Lesson1 動詞・文型
+owe A B , owe B to A (ex The firm owes its current success to the strong economy.)
+  : BはAのおかげ(せい)である
+rise,arise 自動詞
+raise 他動詞
+charge A for B
+  : AにBを請求する
+save A B (ex: save the employees a lot of time)
+  : AからBを取り除く
+lie- lay-lain- lying  自動詞
+lay-laid-laid-laying 他動詞
+tell O to do
+  : Oにdoするように言う
+have an accident
+  : 事故を起こす
+lend A B
+  : AにBを貸す
+
+Lesson2 時制・助動詞
+when,untilなどからはじまる副詞節
+  : 現在完了を使うことが可能
+passの主語は期間 (ex Ten years has passed.)
+come what may
+  : なにが来ようとも
+must have done
+  : したに違いない
+may have done
+  : したかもしれない
+cannot have done
+  : だったはずがない
+draw up
+  : (文書等を)作成する
+feel O V(原形)
+  : OがVするのを感じる
+be thinking of doing
+  : しようかと考えている
+at the moment
+  : ちょうど今
+might as well do (ex You might as well come to the seminar)
+  : したほうがよい
+what do you think V (ex What do you think will happen to John)
+  : あなたは何がVすると思うか
+change : 不可算名詞
+不可算名詞は単数扱い
+in the morning , 過去の一点
+should have done
+  : すべきだったのに
+Everything : 単数扱い
+when S V , 過去の一点
+
+Lesson3 不定詞・動名詞
+seem to do (ex He seems to like working .. )
+  : するようである
+live to be 80
+  : 80歳までいきる
+wait for O to do
+  : Oがdoするのを待つ
+be to do : (予定・義務・可能・命令・運命を表す)
+in order to V
+  = so as to V
+make(let,have) O V
+  : OにVさせる
+get O to V
+  : <getを用いて>OにVさせる
+what to do
+  : 何をVしたらよいか
+prefer A to B
+  : BよりもAを好む
+be worth doing
+  : する価値がある
+need doing
+  : される必要がある
+be no longer ~ (ex: .. is no longer a dream.)
+  : もはや~ではない
+regret to V(say,tell,inform etc) 
+  : 残念ながらVする
+☆make it C to do (ex: make it easier to work)
+  : doするのをCにする
+☆cook up
+  : 作る、考える
+plant
+  : 植物、工場
+suggest that S V原形(should V)
+
+Lesson4 分詞・分詞構文
+☆be occupied with O
+  : に没頭している
+S concerned
+  : 関係しているS
+connect O
+  : (他動詞) を結びつける
+be connected with O
+  : と関係がある
+with O C
+  : OをCにすると、したままで
+be descended from O
+  : に由来する,引き継ぐ
+given O (ex: Given the drive to succeed)
+  : が与えられると、があれば
+分詞構文では接続詞を用いない
+move O
+  : を感動させる
+be anxious for O
+  : を求めている
+leave somebody by oneself
+  : ~をひとりにしておく
+when S be doing,done
+  : S be は省略される
+make oneself heard
+  : 自分の声を届かせる
+depend on O
+  : に頼る,次第だ(動詞の働き)
+depending on O
+  : O次第で(前置詞の働き)
+
+Lesson5 関係詞
+be ready to V
+  : する準備ができている
+非限定用法(関係代名詞の直前にコンマ)ではthatは使えない
+A is to B what C is to D
+  : AとBの関係はCとDの関係に等しい[AはBにとってはCがDに対するものである]
+what is worse
+  : さらに悪いことには
+what is better
+  : さらによいことには
+whoever=anyone who,(単数扱い)
+those who ,(複数扱い)
+挿入句(関係代名詞の直後に挿入されるSVなどの節,直後にthat節をとることができる動詞)
+  , think,believe,suppose,know,say,be sureなど
+  , ex) Bob is the person who I believe is suitable for job.
+from the ground up
+  : はじめから
+agree to O
+  : に同意する
+it is convenient
+  : 都合がよい
+☆no matter how ~ S V (ex: No matter how talented a salesperson he is)
+  : どんなに~にSがVしても
+that's (the reason) why S V
+  : だからSはV[それはSがVする理由です]
+real estate
+  : 不動産
+
+Lesson6 仮定法
+providing<provided> that S 原形
+  : SVならば
+I would rather
+  = I wish
+I wish S did
+  : SがVすればよいのに
+I wish S had done
+  : SがVしていたらよかったのに
+It is about/high time S did
+  : そろそろ~する/もう~しても　いい時間だ
+It is essantial/desirable/important that S 原形
+  : Sが原形することは 不可欠/望ましい/重要 だ
+propose/suggest that S <should> 原形
+  : Vすることを提案する
+If it were not for ~, would do = Were it not for ~, would do
+  : (現在) ~がないならば
+If it had not been for ~, would do = Had it not been for ~, would have done
+  : (過去) ~がなかったならば
+
+Lesson7 比較・形容詞・副詞
+far/much/even/still 比較級
+  : はるかに~
+no less 形容詞/副詞 (ex: his family is no less important)
+  : 同じように~である
+much , little は形容詞を修飾できない
+all the 比較級 (ex: He got all the more excited)
+  : ますます~
+not so much A as B
+  = more B than A , B rather than A
+  : AというよりむしろB
+none the less for ~ (ex: loved his subordinates none the less for their faults.)
+  : ~だがやはり
+figure(数字),number,income,audienceの大小
+  : large,smallを用いる
+almost all of
+  = most of
+wrap up O
+  : を仕上げる
+the 比較級1 S1 V1, the 比較級2 S2 V2 (ex: the better a negotiator he is, the more successful ..)
+  : ~1にS1がV1するほど、~2にS2はV2する
+no more than ~
+  : ~しか、単なる~
+so be/助動詞 S -倒置- (ex: so is his secretary)
+  : Sもまたそうする
+such (a) 形容詞 名詞 that ~ (ex: such bad shape .. that ~)
+  : とても...なので~
+
+Lesson8 名詞・代名詞
+pay a price for ~
+  : ~ のために代償を払う
+progress,ink,toast,advice,information,baggage,luggage,furniture
+  : 不可算名詞->不定冠詞(a,an)は使用不可,複数形なし
+adviceの複数形の例
+  : a few words of advice
+people = persons
+  : 可算名詞,複数形
+give A a hand (with B)
+  : Aに(Bのことで)手を貸す
+one, the one
+  : 可算名詞の代わり
+be away on business
+  : 出張のため不在である
+have a good sense of ~
+  : ~に対する感覚が鋭い
+distinguish A from B
+  : AをBと見分ける
+some (形容詞)
+  : 可算名詞でも不可算名詞でも使える ex:some toast
+
+Lesson9 接続詞・前置詞
+形容詞/名詞/副詞/分詞 as SV, (ex: Strict as he is,)
+  : ~であるが,~なので
+while,since,yet,as long as
+  : 接続詞
+A, when B <主節Aの動詞が 進行形or be able to V のとき>
+  : A ちょうどそのとき B
+in that
+  : because,in the way that ~ (~という点で)
+die of/from ~ (ex: die of a heart attack)
+  : ~(直接的な死因)/(間接的な死因)で死ぬ
+deprive A of B
+  : AからBを奪う
+known for 理由
+  : ~で知られている
+to one's 名詞
+  : ~であることに
+in 方角/方向 (ex. in the east)
+  : ~の方に 
+by ~ (ex. by the hour)
+  : ~単位で 
+not A but B / B, (and) not A
+  : AではなくB
+once S V
+  : いったんSがVすれば <副詞節>
+by car , in the car
+  : 車で
+of all ~s (of all the reasons)
+  : すべての~の中で
+
+Lesson10 パート6攻略法
+pick up
+  : 拾う,習い覚える,負担する
+shipping charge
+  : 運送料
+in order
+  : 整頓されて
+make sure (that) S V
+  : SがVするのを確認する
+
+英文法模擬試験
+require (ex: require traveling )
+  : + O , + that S V , + O to do , to be done
+・分詞構文が完了形の場合
+    主節よりも前のことがらを表す
+・I wish  did / would[coule] do
+  : ~すればいいのに
+・I wish  had done / would have done
+  : ~すればよかったのに
+・propose that S <should> 原形
+・most of the/those/these,etc
+・come to 原形
+  : ~するようになる
+・specialize in ~
+  : ~を専門とする
+・one another = each other
+  : (代名詞)
+・be on hand
+  : 出席する,手元にある
+
+
+# 文法メモ
+〇仮定法
+・仮定法未来(should would do)
+　If S should V, S would[will] do
+　If S were to V, S would do
+・仮定法過去(did would do)
+　If S did, S would do
+・仮定法過去完了(had done woud have done)
+　If S had done, S would have done
+
