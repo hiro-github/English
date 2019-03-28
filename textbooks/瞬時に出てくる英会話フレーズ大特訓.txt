@@ -1,4 +1,4 @@
-UNIT 31 Œ»İŒ`
+UNIT 31 ç¾åœ¨å½¢
 1. I'm very happy.
 2. You are a good student.
 3. He is in Tokyo now.
@@ -9,7 +9,7 @@ UNIT 31 Œ»İŒ`
 8. I often ask my boss questions.
 9. People call him JT.
 
-UNIT 32 –¢—ˆŒ`
+UNIT 32 æœªæ¥å½¢
 1. Lisa will be twenty next year.
 2. It will be cloudy tomorrow.
 3. I will do my best.
@@ -20,7 +20,7 @@ UNIT 32 –¢—ˆŒ`
 8. He is going to visit Hawaii next month.
 9. I'm going to become an engineer.
 
-UNIT 33 ‰ß‹Œ`
+UNIT 33 éå»å½¢
 1. I was busy last week.
 2. You were so lucky.
 3. The weather was so nice yesterday.
@@ -31,7 +31,7 @@ UNIT 33 ‰ß‹Œ`
 8. They built a house last year.
 9. He told me about the accident.
 
-UNIT 34 isŒ`
+UNIT 34 é€²è¡Œå½¢
 1. I'm watching TV now.
 2. We are waiting for James.
 3. Kaori is cooking dinner in the kitchen.
@@ -42,7 +42,7 @@ UNIT 34 isŒ`
 8. He was lying down on the bed.
 9. The students were singing Christmas carols.
 
-UNIT 35 Œ»İŠ®—¹Œ`
+UNIT 35 ç¾åœ¨å®Œäº†å½¢
 1. I have already finished reading that book.
 2. My father has just come home.
 3. Frank has gone to New York.
@@ -53,7 +53,7 @@ UNIT 35 Œ»İŠ®—¹Œ`
 8. I have been working for this company for three years.
 9. It has been raining since yesterday.
 
-UNIT 36 ”Û’è•¶
+UNIT 36 å¦å®šæ–‡
 1. I'm not so hungry.
 2. Bob is not good at sports.
 3. I don't work on Saturdays or Sundays.
@@ -64,7 +64,7 @@ UNIT 36 ”Û’è•¶
 8. I haven't seen him for years.
 9. I have never been to New York.
 
-UNIT 37 ˆê”Ê‹^–â•¶
+UNIT 37 ä¸€èˆ¬ç–‘å•æ–‡
 1. Are you an international student?
 2. Is she still working in her office?
 3. Do you have a credit card?
@@ -75,7 +75,7 @@ UNIT 37 ˆê”Ê‹^–â•¶
 8. Will she be back soon?
 9. Have you ever been to Europe?
 
-UNIT 38 ‹^–âŒ1 what_which
+UNIT 38 ç–‘å•è©1 what_which
 1. What are you doing?
 2. What can I do for you?
 3. What's the matter?
@@ -86,7 +86,7 @@ UNIT 38 ‹^–âŒ1 what_which
 8. Which bus goes to Ginza?
 9. Which soccer team do you like the best?
 
-UNIT 39 ‹^–âŒ2 who_whose
+UNIT 39 ç–‘å•è©2 who_whose
 1. Who is he? He is a friend of mine.
 2. Who are they? They are my coworkers.
 3. Who is it? It's me, Brian.
@@ -97,7 +97,7 @@ UNIT 39 ‹^–âŒ2 who_whose
 8. Whose is this coat? It's probably Yoko's.
 9. Whose are these books? They are ours.
 
-UNIT 40 ‹^–âŒ3 when_where
+UNIT 40 ç–‘å•è©3 when_where
 1. When is your birthday? It's April 21.
 2. When does the summer vacation start?
 3. When do you usually exercise?
@@ -108,7 +108,7 @@ UNIT 40 ‹^–âŒ3 when_where
 8. Where are you going to meet him?
 9. Where did you have dinner?
 
-UNIT 41 ‹^–âŒ4 why
+UNIT 41 ç–‘å•è©4 why
 1. Why is he angry?
 2. Why are they so expensive?
 3. Why was she quiet?
@@ -119,7 +119,7 @@ UNIT 41 ‹^–âŒ4 why
 8. Why were you late? Because I missed the train.
 9. Why didn't she come to the party? Because she was sick.
 
-UNIT 42 ‹^–âŒ5 how
+UNIT 42 ç–‘å•è©5 how
 1. How is the weather in Osaka? It's sunny.
 2. How was your flight to Japan? It was great.
 3. How do you go to work? By train.
@@ -130,7 +130,7 @@ UNIT 42 ‹^–âŒ5 how
 8. How often do you go to the movies? Once a month.
 9. How long have you been working here? For seven years.
 
-UNIT 43 •t‰Á‹^–â•¶
+UNIT 43 ä»˜åŠ ç–‘å•æ–‡
 1. You are from America, aren't you?
 2. This is your umbrella, isn't it?
 3. You speak Japanese, don't you?
@@ -141,7 +141,7 @@ UNIT 43 •t‰Á‹^–â•¶
 8. You don't like vegetables, do you?
 9. Let's take a walk, shall we?
 
-UNIT 44 –½—ß•¶
+UNIT 44 å‘½ä»¤æ–‡
 1. Have a seat.
 2. Take my word for it.
 3. Please speak more slowly.
@@ -152,7 +152,7 @@ UNIT 44 –½—ß•¶
 8. Don't be angry about such a small thing.
 9. Please don't use your cell phone on the train.
 
-UNIT 45 •“®Œ
+UNIT 45 åŠ©å‹•è©
 1. Junko can speak English and Spanish.
 2. Can you play the guitar? Yes, I can./No, I can't.
 3. You may leave now.
@@ -163,7 +163,7 @@ UNIT 45 •“®Œ
 8. You don't have to come with me.
 9. You should check the plane schedule.
 
-UNIT 46 ó“®‘Ô
+UNIT 46 å—å‹•æ…‹
 1. French is visited by many artists.
 2. That book was written by her.
 3. All the work was done by Mr. Kosaka.
@@ -174,7 +174,7 @@ UNIT 46 ó“®‘Ô
 8. The food is being cooked right now.
 9. The computer has just been repaired.
 
-UNIT 47 there is \•¶
+UNIT 47 there is æ§‹æ–‡
 1. There is a newspaper on the table.
 2. There is a guard at the gate.
 3. There are many hot springs in Japan.
@@ -185,7 +185,7 @@ UNIT 47 there is \•¶
 8. There used to be a huge cherry tree there.
 9. There is no much time left.
 
-UNIT 48 to•s’èŒ‡@ –¼Œ“I—p–@
+UNIT 48 toä¸å®šè©â‘  åè©çš„ç”¨æ³•
 1. To play the violin is difficult.
 2. To study English is very important.
 3. To exercise every day is good for your health.
@@ -196,7 +196,7 @@ UNIT 48 to•s’èŒ‡@ –¼Œ“I—p–@
 8. I try to save money.
 9. We decided to go there by taxi.
 
-UNIT 49 to•s’èŒ‡A Œ`—eŒ“I—p–@
+UNIT 49 toä¸å®šè©â‘¡ å½¢å®¹è©çš„ç”¨æ³•
 1. I have a lot of things to do today. 
 2. I'd like something to drink.
 3. Do you have anything to read?
@@ -207,7 +207,7 @@ UNIT 49 to•s’èŒ‡A Œ`—eŒ“I—p–@
 8. He doesn't have any friends to talk with.
 9. She has little children to take care of.
 
-UNIT 50 to•s’èŒ‡B •›Œ“I—p–@
+UNIT 50 toä¸å®šè©â‘¢ å‰¯è©çš„ç”¨æ³•
 1. I went to the supermarket to buy some groceries.
 2. We ran to catch the express train.
 3. I'll go to the coffee shop to meet my friends.
@@ -218,7 +218,7 @@ UNIT 50 to•s’èŒ‡B •›Œ“I—p–@
 8. Jim stopped to make a phone call.
 9. I jog every day to stay healthy.
 
-UNIT 51 it‚Ì“Á•Ê—p–@
+UNIT 51 itã®ç‰¹åˆ¥ç”¨æ³•
 1. It is hot today.
 2. It is raining very hard.
 3. It is so dark in this room.
@@ -229,7 +229,7 @@ UNIT 51 it‚Ì“Á•Ê—p–@
 8. It is interesting to visit foreign countries.
 9. It is difficult for me to do this work.
 
-UNIT 52 “®–¼Œ
+UNIT 52 å‹•åè©
 1. Speaking English is not so easy.
 2. Drinving along the coast is a lot of fun.
 3. My hobby is listening to classical music.
@@ -240,7 +240,7 @@ UNIT 52 “®–¼Œ
 8. Would you mind opening the door for me?
 9. Don't be afraid of making mistakes.
 
-UNIT 53 Œ»İ•ªŒE‰ß‹•ªŒ
+UNIT 53 ç¾åœ¨åˆ†è©ãƒ»éå»åˆ†è©
 1. Don't wake that sleeping baby.
 2. My daughter is afraid of barking dogs.
 3. The woman sitting on the bench is my mother.
@@ -251,7 +251,7 @@ UNIT 53 Œ»İ•ªŒE‰ß‹•ªŒ
 8. What is the language spoken in India?
 9. Please keep your fingers crossed.
 
-UNIT 54 g–ğ“®Œ
+UNIT 54 ä½¿å½¹å‹•è©
 1. Our boss made us work till late at night.
 2. The smell makes me feel sick.
 3. My father let me drive his car.
@@ -263,7 +263,7 @@ UNIT 54 g–ğ“®Œ
 9. Can I get this printer fixed by next week?
 
 
-UNIT 55 ’mŠo“®Œ
+UNIT 55 çŸ¥è¦šå‹•è©
 1. I saw her walk across the street.
 2. I have never heard John sing a song.
 3. We want to watch you dance on the stage.
@@ -274,7 +274,7 @@ UNIT 55 ’mŠo“®Œ
 8. I have never seen him scolded.
 9. We saw a man caught by the police.
 
-UNIT 56 ”äŠr‹‰
+UNIT 56 æ¯”è¼ƒç´š
 1. Today is warmer than yesterday.
 2. David looks younger than you.
 3. Your room is bigger than hers.
@@ -285,7 +285,7 @@ UNIT 56 ”äŠr‹‰
 8. That movie was more interesting than this one.
 9. Math is more difficult than any other subject.
 
-UNIT 57 Åã‹‰E“¯“™”äŠr
+UNIT 57 æœ€ä¸Šç´šãƒ»åŒç­‰æ¯”è¼ƒ
 1. Mt. Fuji is the highest mountain in Japan.
 2. Mr. Hirano is the busiest man in our company.
 3. I am the youngest of the three.
@@ -296,7 +296,7 @@ UNIT 57 Åã‹‰E“¯“™”äŠr
 8. This question is not as easy as I thought.
 9. Hisashi has twice as many books as I do.
 
-UNIT 58 ‰¼’è–@
+UNIT 58 ä»®å®šæ³•
 1. If I were you, I would go to see a dentist.
 2. If we had a lot of money, we would buy a house.
 3. I would appreciate it if you could.
@@ -307,7 +307,7 @@ UNIT 58 ‰¼’è–@
 8. If it hadn't been for your help, we couldn't have succeeded.
 9. If you were to go abroad, you would experience so many things.
 
-UNIT 59 ŠÖŒW‘ã–¼Œ
+UNIT 59 é–¢ä¿‚ä»£åè©
 1. I have a friend who[that] lives in Chicago.
 2. The company is looking for a person who[that] can speak English.
 3. I know a man whose son is a famous pianist.
@@ -318,7 +318,7 @@ UNIT 59 ŠÖŒW‘ã–¼Œ
 8. Let me see what you have in your hand.
 9. I understand what you are saying.
 
-UNIT 60 ŠÖŒW•›Œ
+UNIT 60 é–¢ä¿‚å‰¯è©
 1. This is the room where I study.
 2. This is the street where the accident happened.
 3. Let's go to a place where we can see a nice view.

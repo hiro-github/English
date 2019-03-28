@@ -1,11 +1,11 @@
-‘åŠâ‚Ì‚¢‚¿‚Î‚ñ‚Í‚¶‚ß‚Ì‰p•¶–@ ’´Šî‘b‰p•¶–@•Ò
+å¤§å²©ã®ã„ã¡ã°ã‚“ã¯ã˜ã‚ã®è‹±æ–‡æ³• è¶…åŸºç¤è‹±æ–‡æ³•ç·¨
 
-‘æ6u •“®Œ‡@
+ç¬¬6è¬› åŠ©å‹•è©â‘ 
 Page 065
- —á•¶1 Eiko can speak Chinese.
+ ä¾‹æ–‡1 Eiko can speak Chinese.
 Page 066
- —á•¶2 Peter couldn't sleep very well last night.
- —á•¶3 Can Geoge go with me?
+ ä¾‹æ–‡2 Peter couldn't sleep very well last night.
+ ä¾‹æ–‡3 Can Geoge go with me?
        -Yes, he can./No, he cannot[can't].
 Page 067
  Eiko is able to speak Chinese.
@@ -24,7 +24,7 @@ Page 069
  Will you turn on the light?
  Would[Could] you help me?
 
-‘æ7u •“®Œ‡A
+ç¬¬7è¬› åŠ©å‹•è©â‘¡
 Page 072
  You had better go to the office at once.
  You had better not attend the meeting.
@@ -47,15 +47,15 @@ Page 075
  He must have mistaken me for my cousin.
  Jim cannot have written the poem by himself.
 
-‘æ20u ŠÖŒW‘ã–¼Œ‡A
+ç¬¬20è¬› é–¢ä¿‚ä»£åè©â‘¡
 Page 167
- —á•¶1
- ‡@ The girl is my daughter. + ‡A Dick is playing with her.
+ ä¾‹æ–‡1
+ â‘  The girl is my daughter. + â‘¡ Dick is playing with her.
   = The girl <whom Dick is playing with> is my daughter.
   = The girl <with whom Dick is playing> is my daughter.
- —á•¶2 That is the house. Jack lives in it.
+ ä¾‹æ–‡2 That is the house. Jack lives in it.
 
-‘æ21u ŠÖŒW•›Œ
+ç¬¬21è¬› é–¢ä¿‚å‰¯è©
 Page 174
  That is the lake where he has swum before.
 Page 175
@@ -68,10 +68,10 @@ Page 176
  = December is the month in which we are busy.
 
 
-ÅIƒy[ƒW
- Z‰pŒê‚ÌuŠî–{v‚ÌŒê‡    Šî–{5•¶Œ^
-      ’N‚ª|-‚·‚é    |’N‚É   |‰½‚ğ       |CüŒê    |êŠ           |
-      ’N‚Íl-‚¾      |’N‚ğ   |‚Ç‚Ì‚æ‚¤‚È |          |               |
+æœ€çµ‚ãƒšãƒ¼ã‚¸
+ ã€‡è‹±èªã®ã€ŒåŸºæœ¬ã€ã®èªé †    åŸºæœ¬5æ–‡å‹
+      èª°ãŒ|-ã™ã‚‹    |èª°ã«   |ä½•ã‚’       |ä¿®é£¾èª    |å ´æ‰€           |æ™‚
+      èª°ã¯l-ã       |èª°ã‚’   |ã©ã®ã‚ˆã†ãª |          |               |
  SV   He   ran                           fast       around the park yesterday.
  SVC  She  was               a teacher                              ten years ago.
  SVO  He   will buy          a book      for her    at the shop     tomorrow.
