@@ -47,9 +47,33 @@ Page 075
  He must have mistaken me for my cousin.
  Jim cannot have written the poem by himself.
 
-
 ‘æ20u ŠÖŒW‘ã–¼Œ‡A
+Page 167
+ —á•¶1
  ‡@ The girl is my daughter. + ‡A Dick is playing with her.
   = The girl <whom Dick is playing with> is my daughter.
   = The girl <with whom Dick is playing> is my daughter.
+ —á•¶2 That is the house. Jack lives in it.
 
+‘æ21u ŠÖŒW•›Œ
+Page 174
+ That is the lake where he has swum before.
+Page 175
+   This is the house. (+ Jim lives there.)
+ = This is the house where Jim lives.
+Page 176
+   December is the month. (+ We are busy in the month.)
+ = December is the month when we are busy.
+   December is the month which we are busy in.
+ = December is the month in which we are busy.
+
+
+ÅIƒy[ƒW
+ Z‰pŒê‚ÌuŠî–{v‚ÌŒê‡    Šî–{5•¶Œ^
+      ’N‚ª|-‚·‚é    |’N‚É   |‰½‚ğ       |CüŒê    |êŠ           |
+      ’N‚Íl-‚¾      |’N‚ğ   |‚Ç‚Ì‚æ‚¤‚È |          |               |
+ SV   He   ran                           fast       around the park yesterday.
+ SVC  She  was               a teacher                              ten years ago.
+ SVO  He   will buy          a book      for her    at the shop     tomorrow.
+ SVOO She  wrote     him     this letter with a pen in my room      last week.
+ SVOC He   named     the dog Ishida                 there           last year.

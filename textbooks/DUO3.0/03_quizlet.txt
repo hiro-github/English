@@ -813,6 +813,9 @@
 ##########################
 # Similar spelling words #
 ##########################
+(035)decline	Œ¸­‚·‚é
+(432)declare ...	...‚ğéŒ¾‚·‚é
+
 (353)live from hand to mouth	‚»‚Ì“ú•é‚ç‚µ‚ğ‚·‚é
 (367)cannnot make heads or tails of ...	...‚ª‚³‚Á‚Ï‚è‚í‚©‚ç‚È‚¢
 
