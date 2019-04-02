@@ -971,6 +971,7 @@
 
 (437)controversy	論争、議論
 (453)dispute	論争、紛争
+(138)parliament	議会
 (454)congress	議会
 
 (158)obscure	(意味などが)曖昧な
