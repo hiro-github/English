@@ -830,6 +830,8 @@
 
 (157)flunk (...)	(...(科目)を)落とす
 (418)flaw (in ...)	(名)(...の)欠陥、問題箇所
+(082)flatter...	...にお世辞を言う
+(399)flatly	(副)きっぱりと
 
 (094)plunge (into A)	Aに勢いよく[激しく]飛び込む
 (250)plague	疫病
@@ -969,6 +971,7 @@
 
 (437)controversy	論争、議論
 (453)dispute	論争、紛争
+(138)parliament	議会
 (454)congress	議会
 
 (158)obscure	(意味などが)曖昧な
