@@ -231,7 +231,7 @@ UNIT 51 itの特別用法
 
 UNIT 52 動名詞
 1. Speaking English is not so easy.
-2. Drinving along the coast is a lot of fun.
+2. Driving along the coast is a lot of fun.
 3. My hobby is listening to classical music.
 4. I like taking a walk early in the morning.
 5. Will you please stop talking?
