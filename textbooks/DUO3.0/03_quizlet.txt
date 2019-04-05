@@ -959,8 +959,9 @@
 (505)at a glance	(副)一目見て
 (312)catch[get/have] a glimpse of ...	...を一瞬目にする
 (464)catch sight of ...	...をちらっと見かける
-(463)perceive ...	(動)...に気付く
 (466)stare (at ...)	(...を)じっと見つめる
+(465)witness ...	...を目撃する
+(463)perceive ...	(動)...に気付く
 
 (302)hazardous	有害な
 (318)harmful (to...)	(...に対して)有害な
