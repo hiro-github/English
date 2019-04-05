@@ -15,7 +15,7 @@
 (034)density	密度
 (035)in all likelihood	(副)ほぼ間違いなく
 (038)expose A to B	AをBにさらす
-(039)cannnot do too much	いくらdoしてもし過ぎることはない
+(039)cannot do too much	いくらdoしてもし過ぎることはない
 (043)prominent	傑出した、著名な
 (046)compensate (A) for B	(Aが被った)B(損害)を補償する
 (050)strain ...	...を痛める
@@ -781,11 +781,11 @@
 # Words using "to do" #
 #######################
 (018)be eager to do	しきりにdoしたがっている
-(039)cannnot do too much	いくらdoしてもし過ぎることはない
+(039)cannot do too much	いくらdoしてもし過ぎることはない
 (077)have[be] yet to do	まだdoしていない
 
-(391)force A to do	Aにdoするように強いる
 (239)call on A to do	Aにdoするように求める
+(391)force A to do	Aにdoするように強いる
 (330)encourage A to do	Aにdoするように励ます
 
 (265)have (程度) to do with ...	...と(程度の)関係がある
@@ -855,9 +855,13 @@
 (136)deregulation	規制緩和[撤廃]
 (141)disarmament	軍備縮小
 
+(216)collision	衝突
+(429)collapse	(動)崩壊する
+
 ############
 # Synonyms #
 ############
+(547)ordeal	厳しい試練
 (349)adversity	逆境
 (282)burden	負担
 (090)obstacle	障害
@@ -908,6 +912,7 @@
 (473)go off	爆発する
 
 # Words about disaster
+(251)devastating	壊滅的な
 (229)endangered	絶滅の危機に瀕した
 (250)famine	飢饉
 (250)plague	疫病
