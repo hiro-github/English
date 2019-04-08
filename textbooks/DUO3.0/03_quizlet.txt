@@ -929,6 +929,7 @@
 # Words about disaster
 (251)devastating	壊滅的な
 (229)endangered	絶滅の危機に瀕した
+(234)extinction	絶滅
 (250)famine	飢饉
 (250)plague	疫病
 (327)infection	伝染、感染
