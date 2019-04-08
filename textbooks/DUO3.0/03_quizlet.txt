@@ -720,9 +720,20 @@
 (553)make arrangements	段取りをつける
 (554)grief	深い悲しみ
 
-########################################
+# 派生語・関連語 #
+# Vocabulary relevant "to ..." #
+# Vocabulary using "to do" #
+# Similar spelling words #
+# Synonyms #
+# Words about explosion
+# Words about disaster
+# Words related to the military
+# Words related to large number
+# Words related to expert
 
-派生語・関連語
+##################
+# 派生語・関連語 #
+##################
 (268)invade (...)	(...を)侵略する
 (329)obligatory	強制的な、義務の
 (329)mandatory	強制的な、義務の
@@ -736,9 +747,10 @@
 (510)sophistication	洗練
 (533)depress ...	...を憂鬱にさせる
 
-###########################
-# Words relevant "to ..." #
-###########################
+################################
+# Vocabulary relevant "to ..." #
+################################
+(325)take turns (doing)	(doingを)交代でする
 (229)with a view to doing	doingするつもりで
 
 (057)be opposed to ...	...に反対である
@@ -777,9 +789,9 @@
 (440)put an end to ...	(動)...に終止符を打つ
 
 
-#######################
-# Words using "to do" #
-#######################
+############################
+# Vocabulary using "to do" #
+############################
 (018)be eager to do	しきりにdoしたがっている
 (039)cannot do too much	いくらdoしてもし過ぎることはない
 (077)have[be] yet to do	まだdoしていない
@@ -858,13 +870,16 @@
 (216)collision	衝突
 (429)collapse	(動)崩壊する
 
+(100)defect	(名)欠陥
+(293)deficit	(名)赤字
+
 ############
 # Synonyms #
 ############
 (547)ordeal	厳しい試練
+(090)obstacle	障害
 (349)adversity	逆境
 (282)burden	負担
-(090)obstacle	障害
 (343)threat	脅威、脅迫
 
 (455)revenue	歳入
@@ -989,6 +1004,7 @@
 
 (220)it's no use[good] doing	(定)doingしても無駄だ
 (373)there's no point in doing	(定)doingするのは無駄だ
+(373)there's no sense in doing	(定)doingするのは無駄だ
 
 (531)deceive ...	...をだます
 (539)be taken in by ...	...にだまされる
