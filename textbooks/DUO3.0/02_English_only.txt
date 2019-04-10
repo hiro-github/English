@@ -21,7 +21,7 @@ Section01
 Section02
 010 Bob was so beside himself that he could scarcely tell fact from fiction.
 
-011 His new nobel, which combines prose with his gift for poetry, is going to be published.
+011 His new novel, which combines prose with his gift for poetry, is going to be published.
 
 012 An up-to-date edition of the encyclopedia will come out next month.
 
@@ -1051,7 +1051,7 @@ Section43
 
 525 Such a remark is open to misunderstanding.
 
-526 "I can't stand it anytmore!" "Calm down. I'll come over as soon as possible."
+526 "I can't stand it anymore!" "Calm down. I'll come over as soon as possible."
 
 527 Don't take it literally. He is inclined to exaggerate.
 

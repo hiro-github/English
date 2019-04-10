@@ -793,6 +793,7 @@
 # Vocabulary using "to do" #
 ############################
 (018)be eager to do	しきりにdoしたがっている
+(143)be anxious to do	doしたいと切望している
 (039)cannot do too much	いくらdoしてもし過ぎることはない
 (077)have[be] yet to do	まだdoしていない
 
@@ -825,6 +826,12 @@
 ##########################
 # Similar spelling words #
 ##########################
+(345)make the most of ...	...(有利な状況)を最大限利用する
+(260)make the best of...	...(よくない状況)の中で何とかやっていく
+
+(445)discrimination	差別
+(032)delinquency	非行
+
 (035)decline	減少する
 (432)declare ...	...を宣言する
 
@@ -844,6 +851,7 @@
 (418)flaw (in ...)	(名)(...の)欠陥、問題箇所
 (082)flatter...	...にお世辞を言う
 (399)flatly	(副)きっぱりと
+(152)frown	(動)顔をしかめる
 
 (094)plunge (into A)	Aに勢いよく[激しく]飛び込む
 (250)plague	疫病
@@ -873,9 +881,18 @@
 (100)defect	(名)欠陥
 (293)deficit	(名)赤字
 
+(261)content	内容、中身
+(224)contend that ~	~だと力説する
+
 ############
 # Synonyms #
 ############
+(069)hang out	なんとなく時間を過ごす、ぶらぶらする
+(312)hang around	群がる、たむろする
+
+(267)thriving	繁栄している
+(359)prosperity	繁栄
+
 (547)ordeal	厳しい試練
 (090)obstacle	障害
 (349)adversity	逆境
@@ -927,12 +944,18 @@
 (473)go off	爆発する
 
 # Words about disaster
+(234)be on the verge of ...	...の寸前である
 (251)devastating	壊滅的な
 (229)endangered	絶滅の危機に瀕した
 (234)extinction	絶滅
 (250)famine	飢饉
 (250)plague	疫病
 (327)infection	伝染、感染
+(047)epidemic	(伝染病の)流行
+(047)flu	インフルエンザ
+(096)catastrophe	大惨事
+(476)tragedy	(名)悲劇的な出来事
+(134)crisis	危機
 
 # Words related to the military
 (141)disarmament	軍備縮小
@@ -947,6 +970,7 @@
 (174)vast	膨大な
 (230)massive	極めて大きい
 (456)overwhelming	圧倒的な
+(266)a bunch of ...	たくさんの...
 
 # Words related to expert
 (043)attorney	弁護士
@@ -1036,6 +1060,7 @@
 (378)get by (on...)	(...で)何とか生活していく
 (378)make ends meet	何とかやりくりする
 (353)live from hand to mouth	その日暮らしをする
+(260)make the best of...	...(よくない状況)の中で何とかやっていく
 
 (214)Interstate	幹線道路
 (219)intersection	交差点
