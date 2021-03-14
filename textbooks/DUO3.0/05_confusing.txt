@@ -13,10 +13,14 @@ Contents
 ##################
 # 派生語・関連語 #
 ##################
+(237)pertain to ...	...と関連性がある
 (268)invade (...)	(...を)侵略する
 (329)obligatory	強制的な、義務の
 (329)mandatory	強制的な、義務の
 (348)prestige	名声、威信
+(351)renown	名声
+(351)eminent	有名な
+(351)renowned	有名な
 (381)loyal	忠実[誠実]な
 (428)reluctant	(形)いやいやの
 (463)perception	知覚力
@@ -29,32 +33,35 @@ Contents
 ################################
 # Vocabulary relevant "to ..." #
 ################################
-(325)take turns (doing)	(doingを)交代でする
-(229)with a view to doing	doingするつもりで
+(449)be indifferent to ...	...に無関心である
+(440)put an end to ...	(動)...に終止符を打つ
 
-(057)be opposed to ...	...に反対である
-(223)come close to ...	危うく...しそうになる
+(341)give in (to ...)	(...に)降参する
+(343)yield (to ...)	(...に)屈する
+(425)surrender (to ...)	(...に)降伏する
 
 (307)be subject to ...	...を受ける場合がある
 (525)be open to ...	(動)...を受けやすい
 
-(309)get back to ...	...に連絡しなおす[会いに行く]
-(356)amount to ...	(動)...に達する
+(223)come close to ...	危うく...しそうになる
+
+(358)adapt to ...	...に順応する
+(509)adjust to ...	...に順応する
+
+(229)with a view to doing	doingするつもりで
 
 (210)stick to ...	...を(あくまでも)守る
 (422)appeal to ...	...に訴える
 (357)cling to ...	...にしがみつく
 (507)keep to ...	(動)...から離れない
 
+(057)be opposed to ...	...に反対である
+
+(309)get back to ...	...に連絡しなおす[会いに行く]
+(356)amount to ...	(動)...に達する
+
 (402)reconcile oneself to ...	(動)...を仕方なく受け入れる
 (422)resort to ...	(動)...という手段を取る
-
-(341)give in (to ...)	(...に)降参する
-(343)yield (to ...)	(...に)屈する
-(425)surrender (to ...)	(...に)降伏する
-
-(358)adapt to ...	...に順応する
-(509)adjust to ...	...に順応する
 
 (519)pay attention to ...	(動)...に注意を払う
 
@@ -64,16 +71,11 @@ Contents
 (461)give rise to ...	...を引き起こす
 (245)be indispensable for[to] ...	...に不可欠である
 
-(449)be indifferent to ...	...に無関心である
-(440)put an end to ...	(動)...に終止符を打つ
-
-
 ############################
 # Vocabulary using "to do" #
 ############################
 (018)be eager to do	しきりにdoしたがっている
 (143)be anxious to do	doしたいと切望している
-(039)cannot do too much	いくらdoしてもし過ぎることはない
 (077)have[be] yet to do	まだdoしていない
 
 (239)call on A to do	Aにdoするように求める
@@ -93,8 +95,8 @@ Contents
 (393)tend to do	doする傾向がある
 (527)be inclined to do	doする傾向がある
 (403)be about to do	doするところである
-(206)mean to do	doするつもりである
 (429)be bound to do	きっとdoする
+(206)mean to do	doするつもりである
 (155)be supposed to do	doするものだと思われている
 (253)be likely to do	doしそうだ
 
@@ -105,8 +107,21 @@ Contents
 ##########################
 # Similar spelling words #
 ##########################
+(296)excursion	日帰りツアー
+(475)expedition	探検旅行
+
+(363)registration	登録
+(456)legislation	法律
+
+(143)be anxious to do	doしたいと切望している
+(143)be anxious for ...	...を切望している
+(143)be anxious about ...	...を心配している
+(290)be concerned about ...	...を心配している
+(394)be concerned with ...	...(人が)に関心がある
+(520)as far as A is concerned	Aに関しては
+
+(260)make the best of ...	...(よくない状況)の中で何とかやっていく
 (345)make the most of ...	...(有利な状況)を最大限利用する
-(260)make the best of...	...(よくない状況)の中で何とかやっていく
 
 (445)discrimination	差別
 (032)delinquency	非行
@@ -115,7 +130,7 @@ Contents
 (432)declare ...	...を宣言する
 
 (353)live from hand to mouth	その日暮らしをする
-(367)cannnot make heads or tails of ...	...がさっぱりわからない
+(367)cannot make heads or tails of ...	...がさっぱりわからない
 
 (402)fate	(名)運命
 (349)feat	偉業
@@ -126,11 +141,11 @@ Contents
 (133)abandon ...	...を見捨てる
 (242)be abundant in ...	...が豊富である
 
-(157)flunk (...)	(...(科目)を)落とす
-(418)flaw (in ...)	(名)(...の)欠陥、問題箇所
-(082)flatter...	...にお世辞を言う
 (399)flatly	(副)きっぱりと
+(082)flatter...	...にお世辞を言う
+(418)flaw (in ...)	(名)(...の)欠陥、問題箇所
 (152)frown	(動)顔をしかめる
+(157)flunk (...)	(...(科目)を)落とす
 
 (094)plunge (into A)	Aに勢いよく[激しく]飛び込む
 (250)plague	疫病
@@ -138,18 +153,20 @@ Contents
 (427)deprive A of B	(動)AからBを剥奪する
 (512)derive A from B	(動)BからAを引き出す
 
-(338)perspective	(名)バランスの取れた見方
+(141)prospect	可能性、見込み
 (359)prosperity	(名)繁栄
+(338)perspective	(名)バランスの取れた見方
 
 (211)dwell on ...	...をくよくよ考える[話す]
 (539)it dawns on A that ~	~ということにAが気付いてくる
 
-(243)region	(名)地方、地域              [The region is relatively rich]
-(429)regime	(名)政権                    [His regime is bound to collapse.]
+(243)region	(名)地方、地域
+(429)regime	(名)政権
+(427)reign	支配
 
 (030)dismal	(形)(結果・状況などが)気分を暗くさせる
-(395)diminish	弱まる                  [his power is diminishing]
-(406)dismiss ...	...を解雇[解任]する [was dismissed for corruption]
+(395)diminish	弱まる
+(406)dismiss ...	...を解雇[解任]する
 
 (136)deregulation	規制緩和[撤廃]
 (141)disarmament	軍備縮小
@@ -166,6 +183,22 @@ Contents
 ############
 # Synonyms #
 ############
+(080)go over ...	...(の全体)をよく見る[説明する/考える]
+(164)think ... over	...を(どうしたらいいのか)よく[慎重に]考える
+(206)talk ... over	...についてよく話し合う
+
+(080)be getting at ...	...を言おうとしている
+(499)imply ...	...をほのめかす
+
+(075)turn to ...	...に頼る
+(285)count on ...	...に頼る
+
+(399)flatly	(副)きっぱりと
+(453)once and for all	きっぱりと
+
+(118)mess	散らかって汚い状態[もの]
+(372)make a fuss	騒ぎ立てる
+
 (069)hang out	なんとなく時間を過ごす、ぶらぶらする
 (312)hang around	群がる、たむろする
 
@@ -183,11 +216,12 @@ Contents
 
 (356)debt	借金
 (293)deficit	(名)赤字
+(284)loss	損失
 
 (191)coward	臆病者、弱虫
 (502)timid	臆病な
 
-(406)dismiss ...	...を解雇[解任]する [was dismissed for corruption]
+(406)dismiss ...	...を解雇[解任]する
 (288)lay ... off	...を解雇する
 
 (457)brutal	残虐な
@@ -204,12 +238,13 @@ Contents
 (154)stubborn	頑固な
 
 (376)arouse ...	(動)...を呼び起こす
-(544)provoke ...	...を引き起こす、...を挑発する
+(544)provoke ...	...(人)を挑発する[(わざと)怒らせる]
 
-(270)integrate ... (into A)	...を(Aに)統合させる
-(237)relate A to[with] B	AをBに[と]関連づける
 (408)relevant (to ...)	(形)(...と)関連性のある
+(237)relate A to[with] B	AをBに[と]関連づける
+(270)integrate ... (into A)	...を(Aに)統合させる
 (393)associate A with B	AからBを連想する
+(269)attribute A to B	Aの起因をBだと考える
 
 (100)defect	(名)欠陥
 (418)flaw (in ...)	(名)(...の)欠陥、問題箇所
@@ -268,19 +303,22 @@ Contents
 
 (272)the other way around	(副,形)正反対に[な]
 (375)on the contrary	それどころか
+(520)by[in] contrast	それとは対照的に
 
 (153)claim ...	...だと主張[断言]する
 (183)exclaim (...)	(...と)語気を強めて言う
 (224)contend that ~	~だと力説する
 (455)argue (that ~)	(~だと)主張する
+(430)condemn ...	...を厳しく非難する
 
 (466)in sight	(副)視界に
 (505)at a glance	(副)一目見て
 (312)catch[get/have] a glimpse of ...	...を一瞬目にする
 (464)catch sight of ...	...をちらっと見かける
-(466)stare (at ...)	(...を)じっと見つめる
-(465)witness ...	...を目撃する
 (463)perceive ...	(動)...に気付く
+(524)come across ...	...を偶然見つける
+(465)witness ...	...を目撃する
+(466)stare (at ...)	(...を)じっと見つめる
 
 (302)hazardous	有害な
 (318)harmful (to...)	(...に対して)有害な
@@ -296,6 +334,7 @@ Contents
 
 (437)controversy	論争、議論
 (453)dispute	論争、紛争
+(461)debate	討論、論争
 (138)parliament	議会
 (454)congress	議会
 
@@ -305,6 +344,7 @@ Contents
 
 (420)notorious	悪名高い
 (488)wicked	意地の悪い
+(488)evil	(行為・考えなどが)とても悪い
 
 (220)it's no use[good] doing	(定)doingしても無駄だ
 (373)there's no point in doing	(定)doingするのは無駄だ
@@ -326,9 +366,6 @@ Contents
 (371)resist (...)	(...を)我慢する
 (526)stand ...	...に我慢する
 
-(307)be subject to ...	...を受ける場合がある  [is subject to a maximum fine of $500]
-(525)be open to ...	(動)...を受けやすい        [is open to misunderstanding]
-
 (321)for the time being	当分の間は
 (423)for the moment	(副)今のところは
 
@@ -336,17 +373,17 @@ Contents
 (337)at all costs	どんな犠牲を払っても
 (401)sacrifice ...	...を犠牲にする
 
-(378)get by (on...)	(...で)何とか生活していく
+(378)get by (on ...)	(...で)何とか生活していく
 (378)make ends meet	何とかやりくりする
 (353)live from hand to mouth	その日暮らしをする
-(260)make the best of...	...(よくない状況)の中で何とかやっていく
+(260)make the best of ...	...(よくない状況)の中で何とかやっていく
 
 (214)Interstate	幹線道路
 (219)intersection	交差点
 
-(328)be obliged to do	doせざるを得ない     [The minister was obliged to resign]
+(328)be obliged to do	doせざるを得ない
 (428)be reluctant to do	doすることに気が進まない
-(402)reconcile oneself to ...	(動)...を仕方なく受け入れる [reconcile myself to my fate]
+(402)reconcile oneself to ...	(動)...を仕方なく受け入れる
 
 (406)corruption	汚職、不正、贈賄
 (407)fraud	不正、詐欺

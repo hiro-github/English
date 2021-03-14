@@ -180,7 +180,7 @@ I wish S had done
   : SがVしていたらよかったのに
 It is about/high time S did
   : そろそろ~する/もう~しても　いい時間だ
-It is essantial/desirable/important that S 原形
+It is essential/desirable/important that S 原形
   : Sが原形することは 不可欠/望ましい/重要 だ
 propose/suggest that S <should> 原形
   : Vすることを提案する
@@ -284,7 +284,7 @@ require (ex: require traveling )
   : + O , + that S V , + O to do , to be done
 ・分詞構文が完了形の場合
     主節よりも前のことがらを表す
-・I wish  did / would[coule] do
+・I wish  did / would[could] do
   : ~すればいいのに
 ・I wish  had done / would have done
   : ~すればよかったのに
@@ -292,6 +292,8 @@ require (ex: require traveling )
 ・most of the/those/these,etc
 ・come to 原形
   : ~するようになる
+・give advice on ~
+  : ~について助言をする
 ・specialize in ~
   : ~を専門とする
 ・one another = each other
@@ -307,6 +309,6 @@ require (ex: require traveling )
 　If S were to V, S would do
 ・仮定法過去(did would do)
 　If S did, S would do
-・仮定法過去完了(had done woud have done)
+・仮定法過去完了(had done would have done)
 　If S had done, S would have done
 

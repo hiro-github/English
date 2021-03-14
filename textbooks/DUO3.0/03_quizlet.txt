@@ -73,8 +73,8 @@
 (159)concise	簡潔な
 (162)I bet (that)~	(動)きっと~だ
 (161)turn ... in	...を提出する
-(164)precise	厳密な
 (164)premise	(名)前提
+(165)precise	厳密な
 (169)concept	概念、考え
 (173)barely ...	(副)何とか...(する)、かろうじて...
 (173)minute	極めて小さい[細かい]
@@ -702,7 +702,7 @@
 (540)be seeing ...	...と付き合っている
 (543)delight	喜び
 (544)go so far as to do	doさえもする
-(544)provoke ...	...を引き起こす、...を挑発する
+(544)provoke ...	...(人)を挑発する[(わざと)怒らせる]
 (545)arrogance	傲慢さ
 (545)take advantage of ...	...を悪用する
 (546)reflect on[upon] ...	(動)...をよく考える

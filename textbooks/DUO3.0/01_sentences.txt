@@ -1678,7 +1678,7 @@ Section45
 558 Go easy on Bob. You know, he's been going through a rough period recently.
     ボブにはやさしく接してあげてくれよ。ほら、彼は最近ずっと辛いこと続きなんだ。
 
-559 "By the way, do you have the time?" "Let's see .. it's a quarter to eight."
+559 "By the way, do you have the time?" "Let's see ... it's a quarter to eight."
     「ところで、今何時？」「えーっと、8時15分前だよ。」
 
 560 "Let's call it a day, Bob. I'm starved." "Yep. I'll buy you dinner."
